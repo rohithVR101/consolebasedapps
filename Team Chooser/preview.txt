@@ -1,0 +1,72 @@
+#3: TEAM CHOOSER
+
+This app can split n number of players into random teams by eg a list of players
+This is personalised and optimised version based on the project https://projects.raspberrypi.org/en/projects/team-chooser/
+Concepts used: Files, Faker package
+
+Preview:
+
+Enter the total number of players: 50
+Enter the total number of teams: (less than 10)10
+Here are your teams:
+
+Chelsea
+        Michael Clark
+        Cheryl Chapman
+        Patrick Kline
+        Walter Salinas
+        Jenny Ortiz
+Inter Milan
+        Sherry Brown
+        Robert Diaz
+        Katie Patterson
+        James Harris
+        Shannon Moore
+Manchester United
+        Tiffany Boone
+        Anthony Cline
+        Denise Rowland
+        Valerie Rowe
+        David Reyes
+Liverpool
+        Paul Jones
+        Kimberly Johnson
+        David Sanders
+        Joshua Beasley
+        Anna Lamb
+Paris Saint-Germain
+        Ashley Daniel
+        Daniel Hall
+        Aaron Davis
+        Emily Washington
+        Joseph Contreras
+Juventus
+        Ana Fox
+        Hannah Herring
+        Jennifer Joseph
+        Marcus Jones
+        William Morrison
+Real Madrid
+        Barbara Marsh
+        Lisa Christian
+        Billy Lee
+        Seth Baker
+        Ryan Price
+FC Barcelona
+        Michael Taylor
+        Travis Mcbride
+        Sarah Whitney
+        Jill Cooley
+        Blake Peterson
+Manchester City
+        Heidi Cook
+        Dawn Barnes
+        Taylor Christensen
+        Monica Smith
+        April Oliver
+Bayern Munich
+        Tracy Mills
+        Julie Jordan
+        Matthew Schroeder
+        John Wilson
+        Michael Wright
