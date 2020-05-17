@@ -1,0 +1,5 @@
+#4: TURTLE RACE!
+
+This app uses loops to draw a race track and create a racing turtle game.
+This is personalised and optimised version based on the project https://projects.raspberrypi.org/en/projects/turtle-race
+Concepts used: Basics
