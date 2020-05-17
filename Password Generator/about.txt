@@ -1,0 +1,16 @@
+
+#1: PASSWORD GENERATOR
+
+This app can generate passwords for you. The passwords will be random, so no one will be able to guess them!
+This is personalised and optimised version based on the project https://projects.raspberrypi.org/en/projects/password-generator
+Concepts used: Basics
+
+Preview:
+
+How many passwords do you want?3
+What must be each password's length?10
+
+Here are your passwords:
+VAFg!^8Bg0
+q5we/:[]Jo
+@*FoOyLgT7
